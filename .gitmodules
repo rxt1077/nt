@@ -1,0 +1,3 @@
+[submodule "pyham_kiss"]
+	path = pyham_kiss
+	url = git@github.com:rxt1077/pyham_kiss.git
